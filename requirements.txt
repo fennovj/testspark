@@ -1,0 +1,3 @@
+findspark
+notebook  # or jupyterlab if you prefer
+docker-compose  # For running a local cluster in Docker
